@@ -1,0 +1,12 @@
+The application consists of two sub-activities:
+
+To-Do List
+
+In the To-Do List the user should be able to add/remove item headings, details and due dates
+The user should be able to complete the task if completed
+There should be an in-app notification/alert when the due date is the current date
+
+Sensor Tracking
+
+There should be 2 graphs that are continuously showing real-time data of the gyro and accelerometer sensors mentioned.
+If there is very high movement on any two axis' at the same time, please create an alert that says "ALERT"
